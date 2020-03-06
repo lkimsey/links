@@ -1,0 +1,55 @@
+<script>
+    (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+        w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+        m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://business.lkbussvcs.com/mautic/mtc.js','mt');
+
+    mt('send', 'pageview');
+</script>
+
+
+_amazonses.lkbussvcs.com
+TXT
+Idt3629nS0j055HrxNZk48o1G0pg8Z3FgS0s+/j8PqA=
+
+yuwhpcdauzzgsslqqzqm5vt7luupqndw._domainkey.lkbussvcs.com
+CNAME
+yuwhpcdauzzgsslqqzqm5vt7luupqndw.dkim.amazonses.com
+wnzkisdupluo2i4fcozepgxzjx3w5njo._domainkey.lkbussvcs.com
+CNAME
+wnzkisdupluo2i4fcozepgxzjx3w5njo.dkim.amazonses.com
+4wplbzaorwabvvlbi66scmcxv7mkrdfx._domainkey.lkbussvcs.com
+CNAME
+4wplbzaorwabvvlbi66scmcxv7mkrdfx.dkim..com
+lkbussvcs.com
+MX
+10 inbound-smtp.us-west-2.amazonaws.com
+
+
+
+ ses-smtp-user.20191116-193527
+SMTP Username:
+AKIA5FYWSUOOLQ4ZPNTI
+SMTP Password:
+BM7NcFDqIeusL8IwLSDuLNYdXnAk20NKVZSYsGXjOkTX
+
+
+-------------------   lk pixel -----
+pixel id: 669098106831303
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '669098106831303');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=669098106831303&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
